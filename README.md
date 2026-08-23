@@ -11,7 +11,7 @@ each mod's `Info` folder, so if you own the mod you already have them.
 ## Bundles
 
 **Helicopters**
-- `CZAutoz-Helicopters-ServerFiles.zip` — all six helicopters
+- `CZAutoz-Helicopters-ServerFiles.zip` — all seven helicopters (29 airframe variants)
 
 **Vehicles**
 - `CZAutoz-AllVehicles-ServerFiles.zip` — every pack & tier in one bundle
@@ -25,7 +25,7 @@ each mod's `Info` folder, so if you own the mod you already have them.
 ## Documentation & support
 
 - Docs: https://docs.czautoz.co.uk
-- Discord (setup help & server whitelisting): https://discord.gg/7qWZzPUuTq
+- Discord (setup help & server whitelisting): https://discord.gg/kAm8KyH58d
 
 ---
 *CZ Autoz — created by Callatic.*
