@@ -3,7 +3,8 @@
 Ready-to-go server-config bundles for the **CZ Autoz** DayZ mods (vehicles + helicopters),
 hosted here so the documentation site can offer them as one-click downloads.
 
-Each `.zip` contains `types.xml`, `events.xml`, `cfgeventspawns.xml`, ready-made trader files
+Each `.zip` contains `types.xml`, `events.xml`, `cfgeventspawns.xml`, `cfgspawnabletypes.xml`,
+ready-made trader files
 (Trader by Dr Jones, TraderPlus, DayZ Expansion Market) and a setup `README`. **Merge** the
 entries into your existing server files — don't overwrite them. The same files also ship inside
 each mod's `Info` folder, so if you own the mod you already have them.
