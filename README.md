@@ -12,7 +12,7 @@ each mod's `Info` folder, so if you own the mod you already have them.
 ## Bundles
 
 **Helicopters**
-- `CZAutoz-Helicopters-ServerFiles.zip` — all eight helicopters (33 airframe variants), including the player-built Barrel Helicopter and its build parts
+- `CZAutoz-Helicopters-ServerFiles.zip` — all thirteen aircraft (52 airframe variants), including the player-built Barrel Helicopter and its build parts, and the Flying Carpet
 
 **Vehicles**
 - `CZAutoz-AllVehicles-ServerFiles.zip` — every pack & tier in one bundle
