@@ -15,7 +15,7 @@ each mod's `Info` folder, so if you own the mod you already have them.
 - `CZAutoz-Helicopters-ServerFiles.zip` — all fourteen aircraft (58 airframe variants), including the player-built Barrel Helicopter and its build parts, and the Flying Carpet
 
 **Vehicles**
-- `CZAutoz-VehiclesCore-ServerFiles.zip` — Vehicles Core v1.2 (required by every paid vehicle mod): its add-on and tool items (satnav, dashcam, tracker and receiver, alarm, nitrous kit, ECU tune kit, sports exhaust, roof box, lightbar, underglow, car key, jump cables, radar speed gun, car glass repair kit, spike strip). Contains `types.xml`, the three price files and a setup `README` only; the nitrous station and gas pumps are placed from the in-game admin panel and need no economy entry
+- `CZAutoz-VehiclesCore-ServerFiles.zip` — Vehicles Core (required by every paid vehicle mod): its add-on and tool items (satnav, dashcam, tracker and receiver, alarm, nitrous kit, ECU tune kit, sports exhaust, roof box, lightbar, underglow, car key, jump cables, radar speed gun, car glass repair kit, spike strip). Contains `types.xml`, the three price files and a setup `README` only; the nitrous station and gas pumps are placed from the in-game admin panel and need no economy entry
 - `CZAutoz-AllVehicles-ServerFiles.zip` — every pack & tier in one bundle
 - `CZAutoz-Tier-1-ServerFiles.zip`, `CZAutoz-Tier-2-ServerFiles.zip`, `CZAutoz-Tier-3-ServerFiles.zip`, `CZAutoz-Tier-4-ServerFiles.zip`
 - `CZAutoz-Armoured-Pack-ServerFiles.zip`
